@@ -129,11 +129,96 @@ body{
 .palabra1{
     position: absolute;
      left: 26%;
+     top: 116%;
 }
 
 .palabra2{
     position: absolute;
      left: 26%;
      top: 120%;
+}
+
+.palabra3{
+    position: absolute;
+     left: 49%;
+     top: 116%;
+}
+
+.palabra4{
+    position: absolute;
+     left: 49%;
+     top: 120%;
+}
+
+.palabra5{
+    position: absolute;
+     left: 69%;
+     top: 116%;
+}
+
+.palabra6{
+    position: absolute;
+     left: 69%;
+     top: 120%;
+}
+
+.seccion1{
+    position: absolute;
+    top: 140%;
+    left: 45%;
+}
+
+.imagen5{
+    position: absolute;
+    width: 20%;
+    top: 180%;
+}
+
+.imagen6{
+    position: absolute;
+    width: 20%;
+    top: 180%;
+    left: 20%;
+}
+
+.imagen7{
+    position: absolute;
+    width: 20%;
+    top: 180%;
+    left: 40%;
+}
+
+.imagen8{
+    position: absolute;
+    width: 20%;
+    top: 180%;
+    left: 60%;
+}
+
+.imagen9{
+    position: absolute;
+    width: 20%;
+    top: 210%;
+}
+
+.imagen10{
+    position: absolute;
+    width: 20%;
+    top: 210%;
+    left: 20%;
+}
+
+.imagen11{
+    position: absolute;
+    width: 20%;
+    top: 210%;
+    left: 40%;
+}
+
+.imagen12{
+    position: absolute;
+    width: 20%;
+    top: 210%;
+    left: 60%;
 }
 
